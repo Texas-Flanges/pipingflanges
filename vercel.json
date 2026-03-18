@@ -1,0 +1,25 @@
+{
+  "redirects": [
+    { "source": "/contact-us-2", "destination": "/contact-us", "permanent": true },
+    { "source": "/about-us-2", "destination": "/about-us", "permanent": true },
+    { "source": "/blogs", "destination": "/blog", "permanent": true },
+    { "source": "/Blogs", "destination": "/blog", "permanent": true },
+    { "source": "/blog-list", "destination": "/blog", "permanent": true },
+    { "source": "/blog-post2", "destination": "/blog", "permanent": true },
+    { "source": "/category/blogs", "destination": "/blog", "permanent": true },
+    { "source": "/uncategorized", "destination": "/blog", "permanent": true },
+    { "source": "/Uncategorized", "destination": "/blog", "permanent": true },
+    { "source": "/category/uncategorized", "destination": "/blog", "permanent": true },
+    { "source": "/faq", "destination": "/", "permanent": true },
+    { "source": "/gallery", "destination": "/", "permanent": true },
+    { "source": "/company.html", "destination": "/", "permanent": true },
+    { "source": "/Catalog.pdf", "destination": "/", "permanent": true },
+    { "source": "/sample-page", "destination": "/", "permanent": true },
+    { "source": "/shop", "destination": "/", "permanent": true },
+    { "source": "/cart", "destination": "/", "permanent": true },
+    { "source": "/privacy-policy", "destination": "/", "permanent": true },
+    { "source": "/understanding-piping-flanges-design-and-specifications", "destination": "/blog", "permanent": true },
+    { "source": "/industrial-applications-for-piping-flanges", "destination": "/blog", "permanent": true },
+    { "source": "/standards-and-quality-assurance-in-piping-flanges", "destination": "/blog", "permanent": true }
+  ]
+}
