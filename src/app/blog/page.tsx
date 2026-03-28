@@ -54,7 +54,7 @@ export default function BlogPage() {
               <h3><a href={post.slug}>{post.title}</a></h3>
               <p className="date">{post.date}</p>
               <p>{post.excerpt}</p>
-              <a href={post.slug}>Read More ÃÂ¢ÃÂÃÂ</a>
+              <a href={post.slug}>Read More →</a>
             </div>
           ))}
         </div>

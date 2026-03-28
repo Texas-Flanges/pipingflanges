@@ -12,7 +12,7 @@ export default function PressureRatingsPage() {
         <p>Pressure ratings are one of the most critical specifications when selecting piping flanges. A flange's pressure rating indicates the maximum pressure at which it can safely operate at a given temperature. Understanding pressure ratings is essential for selecting the right flanges to ensure system safety, reliability, and regulatory compliance.</p>
 
         <h2>What Are Pressure Ratings?</h2>
-        <p>A pressure rating is a standard specification that indicates the maximum pressure a flange can withstand at a particular operating temperature without failure. These ratings are expressed as pressure classes, such as Class 150, 300, 600, 900, 1500, and 2500, with each class designating a specific maximum pressure at a standard reference temperature (typically 100ÃÂÃÂ°F for carbon steel).</p>
+        <p>A pressure rating is a standard specification that indicates the maximum pressure a flange can withstand at a particular operating temperature without failure. These ratings are expressed as pressure classes, such as Class 150, 300, 600, 900, 1500, and 2500, with each class designating a specific maximum pressure at a standard reference temperature (typically 100°F for carbon steel).</p>
 
         <h2>How Are Pressure Ratings Determined?</h2>
         <p>Pressure ratings are established through engineering analysis, testing, and standardization processes conducted by industry organizations. The primary standards that determine pressure ratings include:</p>
@@ -36,7 +36,7 @@ export default function PressureRatingsPage() {
         </ul>
 
         <h2>Common Pressure Classes</h2>
-        <p>Piping flanges are classified into standard pressure classes. Here are the most common classes for carbon steel flanges at 100ÃÂÃÂ°F:</p>
+        <p>Piping flanges are classified into standard pressure classes. Here are the most common classes for carbon steel flanges at 100°F:</p>
 
         <h3>Class 150</h3>
         <p><strong>Maximum Pressure: 300 psi (20 bar)</strong></p>
@@ -63,7 +63,7 @@ export default function PressureRatingsPage() {
         <p>Class 2500 flanges represent the highest standard pressure rating. These massive, expensive flanges are used only in extreme pressure applications where no other option is suitable.</p>
 
         <h2>Pressure-Temperature Ratings</h2>
-        <p>While the pressure classes above are rated at 100ÃÂÃÂ°F (38ÃÂÃÂ°C), actual pressure ratings decrease as temperature increases. This relationship is defined in pressure-temperature rating tables provided in ASME standards.</p>
+        <p>While the pressure classes above are rated at 100°F (38°C), actual pressure ratings decrease as temperature increases. This relationship is defined in pressure-temperature rating tables provided in ASME standards.</p>
 
         <h3>How Temperature Affects Pressure Ratings:</h3>
         <ul>
@@ -73,13 +73,13 @@ export default function PressureRatingsPage() {
         </ul>
 
         <h3>Example: Carbon Steel Weld Neck Flange</h3>
-        <p>A Class 600 weld neck flange rated at 1480 psi @ 100ÃÂÃÂ°F might have the following pressure allowances at other temperatures:</p>
+        <p>A Class 600 weld neck flange rated at 1480 psi @ 100°F might have the following pressure allowances at other temperatures:</p>
         <ul>
-          <li>@ 200ÃÂÃÂ°F: 1480 psi</li>
-          <li>@ 400ÃÂÃÂ°F: 1345 psi</li>
-          <li>@ 600ÃÂÃÂ°F: 1157 psi</li>
-          <li>@ 800ÃÂÃÂ°F: 816 psi</li>
-          <li>@ -20ÃÂÃÂ°F: 1480 psi</li>
+          <li>@ 200°F: 1480 psi</li>
+          <li>@ 400°F: 1345 psi</li>
+          <li>@ 600°F: 1157 psi</li>
+          <li>@ 800°F: 816 psi</li>
+          <li>@ -20°F: 1480 psi</li>
         </ul>
 
         <p>Always consult the applicable standard or manufacturer's pressure-temperature rating tables for your specific material and application.</p>
@@ -139,7 +139,7 @@ export default function PressureRatingsPage() {
         <h2>Common Misconceptions About Pressure Ratings</h2>
 
         <h3>Misconception 1: A Class 300 Flange Always Has 740 psi Capacity</h3>
-        <p>This is only true at 100ÃÂÃÂ°F. At higher temperatures, the pressure capacity decreases. Always consult pressure-temperature rating tables for your operating temperature.</p>
+        <p>This is only true at 100°F. At higher temperatures, the pressure capacity decreases. Always consult pressure-temperature rating tables for your operating temperature.</p>
 
         <h3>Misconception 2: Oversizing Doesn't Hurt</h3>
         <p>While oversizing is safer, it increases cost, weight, and installation complexity. Select the appropriate size for your requirements, not the largest available option.</p>

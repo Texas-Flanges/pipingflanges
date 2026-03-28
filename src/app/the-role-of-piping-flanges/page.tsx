@@ -56,7 +56,7 @@ export default function RoleOfFlangesPage() {
 
         <h3>Thermal Expansion Challenges:</h3>
         <ul>
-          <li><strong>Pipe Expansion:</strong> As temperature increases, pipes expand. Over a 100-meter run, a 100ÃÂÃÂ°F temperature change in a steel pipe can cause 2-3 inches of expansion.</li>
+          <li><strong>Pipe Expansion:</strong> As temperature increases, pipes expand. Over a 100-meter run, a 100°F temperature change in a steel pipe can cause 2-3 inches of expansion.</li>
           <li><strong>Stress Concentration:</strong> If thermal expansion is not properly accommodated, the resulting stress can cause pipes to fail at weak points, particularly at connections.</li>
           <li><strong>Equipment Damage:</strong> Unaccommodated pipe movement can damage connected equipment such as pumps, compressors, and heat exchangers.</li>
           <li><strong>Flange Leakage:</strong> Thermal cycling can loosen flange bolts, leading to leaks if the flanges are not properly designed and maintained.</li>
@@ -157,14 +157,14 @@ export default function RoleOfFlangesPage() {
           <li>Properly weld or thread flanges to pipes according to specifications</li>
           <li>Use proper gasket materials compatible with your fluid and temperatures</li>
           <li>Use correct bolt size, material, and grade for your pressure rating</li>
-          <li>Properly torque bolts to specificationÃÂ¢ÃÂÃÂuse a torque wrench, not guesswork</li>
+          <li>Properly torque bolts to specification - use a torque wrench, not guesswork</li>
           <li>Use a systematic bolt tightening pattern (e.g., cross pattern) to ensure even gasket compression</li>
         </ul>
 
         <h4>Maintenance Best Practices:</h4>
         <ul>
           <li>Periodically inspect flanges for signs of leakage or corrosion</li>
-          <li>Retighten bolts if leakage developsÃÂ¢ÃÂÃÂmany minor leaks are solved by modest bolt tightening</li>
+          <li>Retighten bolts if leakage develops - many minor leaks are solved by modest bolt tightening</li>
           <li>In thermal cycling applications, retighten bolts periodically as thermal stress may cause some loosening</li>
           <li>Replace gaskets during major maintenance if they show signs of degradation</li>
           <li>Keep bolts, nuts, and studs clean and in good condition; replace corroded fasteners</li>
@@ -195,7 +195,7 @@ export default function RoleOfFlangesPage() {
 
           <div className="faq-item">
             <strong>Q: How do I calculate thermal expansion for my piping system?</strong>
-            <p>A: Thermal expansion = length ÃÂÃÂ coefficient of thermal expansion ÃÂÃÂ temperature change. For steel: approximately 0.0000065 inches per inch per ÃÂÃÂ°F. For a 100-foot run with 100ÃÂÃÂ°F change, expect approximately 0.78 inches of expansion.</p>
+            <p>A: Thermal expansion = length × coefficient of thermal expansion × temperature change. For steel: approximately 0.0000065 inches per inch per °F. For a 100-foot run with 100°F change, expect approximately 0.78 inches of expansion.</p>
           </div>
         </div>
 

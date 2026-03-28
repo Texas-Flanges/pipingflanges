@@ -25,7 +25,7 @@ export default function TypesOfFlangesPage() {
         </ul>
 
         <h3>2. Slip-On Flanges</h3>
-        <p>Slip-on flanges slide over the end of the pipe and are secured with two fillet weldsÃÂ¢ÃÂÃÂone inside and one outside. These are among the most common flanges used in piping systems due to their simplicity and cost-effectiveness.</p>
+        <p>Slip-on flanges slide over the end of the pipe and are secured with two fillet welds - one inside and one outside. These are among the most common flanges used in piping systems due to their simplicity and cost-effectiveness.</p>
         <p><strong>Characteristics:</strong></p>
         <ul>
           <li>Easy to install and align</li>
@@ -129,12 +129,12 @@ export default function TypesOfFlangesPage() {
         <h2>Pressure Ratings</h2>
         <p>Flanges are classified by pressure rating classes that indicate their maximum operating pressure at specific temperatures:</p>
         <ul>
-          <li><strong>Class 150:</strong> Low-pressure applications (300 psi @ 100ÃÂÃÂ°F for carbon steel)</li>
-          <li><strong>Class 300:</strong> Medium-pressure applications (740 psi @ 100ÃÂÃÂ°F for carbon steel)</li>
-          <li><strong>Class 600:</strong> High-pressure applications (1480 psi @ 100ÃÂÃÂ°F for carbon steel)</li>
-          <li><strong>Class 900:</strong> Very high-pressure applications (2220 psi @ 100ÃÂÃÂ°F for carbon steel)</li>
-          <li><strong>Class 1500:</strong> Extreme-pressure applications (3630 psi @ 100ÃÂÃÂ°F for carbon steel)</li>
-          <li><strong>Class 2500:</strong> Ultra-high-pressure applications (6570 psi @ 100ÃÂÃÂ°F for carbon steel)</li>
+          <li><strong>Class 150:</strong> Low-pressure applications (300 psi @ 100°F for carbon steel)</li>
+          <li><strong>Class 300:</strong> Medium-pressure applications (740 psi @ 100°F for carbon steel)</li>
+          <li><strong>Class 600:</strong> High-pressure applications (1480 psi @ 100°F for carbon steel)</li>
+          <li><strong>Class 900:</strong> Very high-pressure applications (2220 psi @ 100°F for carbon steel)</li>
+          <li><strong>Class 1500:</strong> Extreme-pressure applications (3630 psi @ 100°F for carbon steel)</li>
+          <li><strong>Class 2500:</strong> Ultra-high-pressure applications (6570 psi @ 100°F for carbon steel)</li>
         </ul>
 
         <h2>Material Selection</h2>
@@ -244,7 +244,7 @@ export default function TypesOfFlangesPage() {
         </div>
 
         <h2>Conclusion</h2>
-        <p>Understanding the different types of piping flangesÃÂ¢ÃÂÃÂfrom common weld neck and slip-on designs to specialty options like orifice flanges and spectacle blindsÃÂ¢ÃÂÃÂis essential for designing and maintaining reliable piping systems. Each flange type serves specific purposes and offers unique advantages for particular applications. By selecting the appropriate flange type for your system requirements, you ensure optimal performance, safety, and longevity.</p>
+        <p>Understanding the different types of piping flanges - from common weld neck and slip-on designs to specialty options like orifice flanges and spectacle blinds - is essential for designing and maintaining reliable piping systems. Each flange type serves specific purposes and offers unique advantages for particular applications. By selecting the appropriate flange type for your system requirements, you ensure optimal performance, safety, and longevity.</p>
 
         <p>If you need assistance selecting the right flange types for your project or require custom flange solutions, our team at Piping Flanges is ready to help. Contact us at sales@texasflange.com or 281-484-8325.</p>
       </section>

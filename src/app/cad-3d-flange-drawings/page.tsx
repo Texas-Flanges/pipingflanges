@@ -13,7 +13,7 @@ export default function CADFlangeDrawingsPage() {
         <h2>What Are CAD / 3D Flange Drawings?</h2>
         <p>CAD (Computer-Aided Design) and 3D flange drawings are digital blueprints that represent piping flanges with exact dimensional accuracy. These drawings provide:</p>
         <ul>
-          <li><strong>Precise Dimensions:</strong> All relevant measurements including OD, bore, BCD, thickness, and moreÃÂ¢ÃÂÃÂto exact tolerances.</li>
+          <li><strong>Precise Dimensions:</strong> All relevant measurements including OD, bore, BCD, thickness, and more - to exact tolerances.</li>
           <li><strong>Complete Technical Information:</strong> Bolt hole locations, sizes, thread specifications, and surface finishes.</li>
           <li><strong>3D Visualization:</strong> Three-dimensional representations that allow you to visualize how the flange fits in your piping system.</li>
           <li><strong>Multiple Viewing Angles:</strong> Section views, front views, side views, and isometric perspectives for comprehensive understanding.</li>
@@ -24,7 +24,7 @@ export default function CADFlangeDrawingsPage() {
         <h2>Benefits of Using CAD / 3D Flange Drawings</h2>
 
         <h3>Enhanced Accuracy</h3>
-        <p>Digital drawings eliminate guesswork and ensure that everyone involved in your projectÃÂ¢ÃÂÃÂdesigners, fabricators, installersÃÂ¢ÃÂÃÂis working from the same precise specifications. This reduces costly errors and rework.</p>
+        <p>Digital drawings eliminate guesswork and ensure that everyone involved in your project - designers, fabricators, installers - is working from the same precise specifications. This reduces costly errors and rework.</p>
 
         <h3>Improved Efficiency</h3>
         <p>CAD drawings can be quickly integrated into your design software, fabrication equipment, and project documentation. This streamlines workflows and reduces time spent on manual measurements and specifications.</p>

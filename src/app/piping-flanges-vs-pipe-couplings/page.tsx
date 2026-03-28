@@ -130,7 +130,7 @@ export default function FlangesVsCuplingsPage() {
             <tr>
               <td>Temperature Rating</td>
               <td>Excellent (high temp capable)</td>
-              <td>Limited (typically to ~200ÃÂÃÂ°F)</td>
+              <td>Limited (typically to ~200°F)</td>
             </tr>
             <tr>
               <td>Seal Reliability</td>
@@ -209,32 +209,32 @@ export default function FlangesVsCuplingsPage() {
         <ol>
           <li><strong>Is your operating pressure greater than 150-300 psi?</strong>
             <ul>
-              <li>Yes ÃÂ¢ÃÂÃÂ Use flanges</li>
-              <li>No ÃÂ¢ÃÂÃÂ Consider both options</li>
+              <li>Yes → Use flanges</li>
+              <li>No → Consider both options</li>
             </ul>
           </li>
           <li><strong>Will your system require maintenance or modifications?</strong>
             <ul>
-              <li>Yes ÃÂ¢ÃÂÃÂ Use flanges (easier disassembly)</li>
-              <li>No ÃÂ¢ÃÂÃÂ Couplings acceptable</li>
+              <li>Yes → Use flanges (easier disassembly)</li>
+              <li>No → Couplings acceptable</li>
             </ul>
           </li>
-          <li><strong>Is your operating temperature above 200ÃÂÃÂ°F?</strong>
+          <li><strong>Is your operating temperature above 200°F?</strong>
             <ul>
-              <li>Yes ÃÂ¢ÃÂÃÂ Use flanges</li>
-              <li>No ÃÂ¢ÃÂÃÂ Both options acceptable</li>
+              <li>Yes → Use flanges</li>
+              <li>No → Both options acceptable</li>
             </ul>
           </li>
           <li><strong>Is installation speed critical?</strong>
             <ul>
-              <li>Yes ÃÂ¢ÃÂÃÂ Consider couplings</li>
-              <li>No ÃÂ¢ÃÂÃÂ Either option acceptable</li>
+              <li>Yes → Consider couplings</li>
+              <li>No → Either option acceptable</li>
             </ul>
           </li>
           <li><strong>Is cost the primary constraint?</strong>
             <ul>
-              <li>Yes ÃÂ¢ÃÂÃÂ Couplings are less expensive</li>
-              <li>No ÃÂ¢ÃÂÃÂ Choose based on other criteria</li>
+              <li>Yes → Couplings are less expensive</li>
+              <li>No → Choose based on other criteria</li>
             </ul>
           </li>
         </ol>

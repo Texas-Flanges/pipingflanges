@@ -70,7 +70,7 @@ export default function HomePage() {
         name: "What is the difference between socket weld and slip-on flanges?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Socket weld flanges require welding only on the outside of the joint, while slip-on flanges need welding on both the inside and outside of the joint.",
+          text: "Socket welds require a weld at the inner socket with a gap between the pipe and the counterbore, whereas slip-on flanges need a fillet weld around the perimeter of the pipe at the hub of the flange.",
         },
       },
       {
@@ -151,8 +151,8 @@ export default function HomePage() {
           valves, and equipment while ensuring that fluids flow efficiently and
           don&apos;t leak out. Understanding the different types of flanges, what
           they do, and where they&apos;re used is essential for working with
-          piping systems. In this article, we&apos;ll explore ten common types
-          of flanges and their specific functions.
+          piping systems. In this article, we&apos;ll explore several common
+          types of flanges, as well as their sealing face configurations.
         </p>
 
         <h2>What Are Piping Flanges Made Of?</h2>
@@ -170,7 +170,7 @@ export default function HomePage() {
         <h3>1. Slip-On Flanges</h3>
         <p>
           Slip-on flanges are among the most common types used in piping systems. They slide over the pipe and are secured with two
-          welds — one inside (fillet weld) and one outside (lap weld). These flanges work best when the bore is larger than the pipe outer
+          welds - one inside (fillet weld) and one outside (lap weld). These flanges work best when the bore is larger than the pipe outer
           diameter (OD).
         </p>
         <img src="/Slip-On-Flanges.png" alt="Slip-On Flanges" style={{ maxWidth: "500px" }} />
@@ -341,9 +341,9 @@ export default function HomePage() {
 
         <h3>What&apos;s the difference between socket weld and slip-on flanges?</h3>
         <p>
-          Socket weld flanges require welding only on the outside of the
-          joint, while slip-on flanges need welding on both the inside and
-          outside of the joint.
+          Socket welds require a weld at the inner socket with a gap between
+          the pipe and the counterbore, whereas slip-on flanges need a fillet
+          weld around the perimeter of the pipe at the hub of the flange.
         </p>
 
         <h3>What is the purpose of lap joint flanges?</h3>
