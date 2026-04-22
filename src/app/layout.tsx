@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import './globals.css';
+import GoogleAnalytics from "@/components/GoogleAnalytics";
 
 export const metadata: Metadata = {
   title: 'Piping Flanges - An In-Depth Look at Types, Uses, and Applications',
@@ -21,6 +22,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
+        <GoogleAnalytics />
         <header className="site-nav">
           <div className="nav-inner">
             <a href="/" className="logo">Piping Flanges</a>
