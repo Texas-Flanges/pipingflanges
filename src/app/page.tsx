@@ -181,7 +181,7 @@ export default function HomePage() {
         </ul>
         <p className="img-source">
           Image Source:{" "}
-          <a href="https://texasflange.com" target="_blank" rel="noopener noreferrer">Texas Flange</a>
+          <a href="https://texasflange.com/flange-types-basics/" target="_blank" rel="noopener noreferrer">Texas Flange</a>
         </p>
 
         <h3>2. Threaded Flanges</h3>
@@ -198,7 +198,7 @@ export default function HomePage() {
         </p>
         <p className="img-source">
           Image Source:{" "}
-          <a href="https://texasflange.com" target="_blank" rel="noopener noreferrer">Texas Flange</a>
+          <a href="https://texasflange.com/flange-types-basics/" target="_blank" rel="noopener noreferrer">Texas Flange</a>
         </p>
 
         <h3>3. Weld Neck Flanges</h3>
@@ -215,7 +215,7 @@ export default function HomePage() {
         </p>
         <p className="img-source">
           Image Source:{" "}
-          <a href="https://texasflange.com" target="_blank" rel="noopener noreferrer">Texas Flange</a>
+          <a href="https://texasflange.com/flange-types-basics/" target="_blank" rel="noopener noreferrer">Texas Flange</a>
         </p>
 
         <h3>4. Socket Weld Flanges</h3>
@@ -231,7 +231,7 @@ export default function HomePage() {
         </p>
         <p className="img-source">
           Image Source:{" "}
-          <a href="https://texasflange.com" target="_blank" rel="noopener noreferrer">Texas Flange</a>
+          <a href="https://texasflange.com/flange-types-basics/" target="_blank" rel="noopener noreferrer">Texas Flange</a>
         </p>
 
         <h3>5. Blind Flanges</h3>
@@ -247,7 +247,7 @@ export default function HomePage() {
         </p>
         <p className="img-source">
           Image Source:{" "}
-          <a href="https://texasflange.com" target="_blank" rel="noopener noreferrer">Texas Flange</a>
+          <a href="https://texasflange.com/flange-types-basics/" target="_blank" rel="noopener noreferrer">Texas Flange</a>
         </p>
 
         <h3>6. Lap Joint Flanges</h3>
@@ -288,14 +288,14 @@ export default function HomePage() {
         </p>
         <p className="img-source">
           Image Source:{" "}
-          <a href="https://texasflange.com" target="_blank" rel="noopener noreferrer">Texas Flange</a>
+          <a href="https://texasflange.com/flange-types-basics/" target="_blank" rel="noopener noreferrer">Texas Flange</a>
         </p>
 
         <h2>Flange Face Types</h2>
         <img src="/Flange-Face-Types.png" alt="Flange Face Types" style={{ maxWidth: "600px" }} />
         <p className="img-source">
           Image Source:{" "}
-          <a href="https://texasflange.com" target="_blank" rel="noopener noreferrer">Texas Flange</a>
+          <a href="https://texasflange.com/flange-types-basics/" target="_blank" rel="noopener noreferrer">Texas Flange</a>
         </p>
         <p>
           Flange face types are essential for ensuring proper seals with gaskets.
@@ -376,7 +376,7 @@ export default function HomePage() {
         <h3>Where can I find more information and visuals on piping flanges?</h3>
         <p>
           You can refer to websites like{" "}
-          <a href="https://texasflange.com" target="_blank" rel="noopener noreferrer">Texas Flange</a>{" "}
+          <a href="https://texasflange.com/flange-types-basics/" target="_blank" rel="noopener noreferrer">Texas Flange</a>{" "}
           for detailed information and images of various piping flanges.
         </p>
       </div>
